@@ -10,5 +10,9 @@ i'll recommend you to copy the program in a single usb stick and encrypt your di
 it can helps you to sort your usernames and password in clean database , also you can copy this program in encrypted disk so you wont lose them .
 # simple
 source written in the most simple avalible methods in ruby so the beginners could read the source
+# usage 
+$ git clone https://github.com/polarspetroll/pswmanager.git
+$ ruby datamanager.rb
+ 
 # ★★
 if you found this useful feel free and give me star !! 😀
