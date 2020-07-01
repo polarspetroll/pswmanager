@@ -12,6 +12,7 @@ it can helps you to sort your usernames and password in clean database , also yo
 source written in the most simple avalible methods in ruby so the beginners could read the source
 # usage 
 $ git clone https://github.com/polarspetroll/pswmanager.git
+
 $ ruby datamanager.rb
  
 # ★★
