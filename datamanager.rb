@@ -1,3 +1,15 @@
+puts " _____________"
+puts " < datamanager >"
+puts " -------------"
+puts "         \   ^__^ "
+puts "          \  (oo)\_______ "
+puts "            (__)\       )\/\ "
+puts "                ||----w | "
+puts  "                ||     || "
+puts  "            coded by polarspetroll ♥ "
+
+
+
 puts "enter the service(eg:gmail,facebook,..) : "
 service=gets.chomp
 puts "enter your username : "
