@@ -19,7 +19,7 @@ username=gets.chomp
 puts "what is your password : ".green
 password=gets.chomp
 puts "<==check your data ==>".blue.bold
-puts "service : #{service} ".magenta
+puts "service : #{service} ".magenta.bold
 puts "username : #{username}".magenta
 puts "password : #{password}".magenta
 puts "is your data correct ? (Y/n)".yellow.bold
@@ -32,7 +32,7 @@ end
 if check == "n" or check == "N"
 abort "it's ok , run the program one more time and rewrite your data :)".blue
 elsif check == "y" or check == "Y"
-puts " all done  , your data saved in database.txt file , enjoy :)!!".green.bold
+puts " all done  , your data saved in database.db file , enjoy :)!!".green.bold
 database=File.open("database.db", "a")
-  database.write("\n  service : ss#{service} ==> #{username} , #{password}")
+  database.write("\n  service : #{service} ==> #{username} , #{password}")
 end
