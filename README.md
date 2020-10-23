@@ -20,6 +20,7 @@ $ gem install colorize
 ``
 $ git clone https://github.com/polarspetroll/pswmanager.git
 ``
+
 ``
 $ ruby datamanager.rb
 ``
