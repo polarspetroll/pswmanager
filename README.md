@@ -25,5 +25,3 @@ $ git clone https://github.com/polarspetroll/pswmanager.git
 $ ruby datamanager.rb
 ``
  
-#### ★★
-if you found this useful feel free and give me star !! 😀
