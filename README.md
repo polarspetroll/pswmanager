@@ -1,6 +1,5 @@
 # pswmanager
 password manager
----
 simple and useful password keeper written in ruby.
 
 ### How it works
